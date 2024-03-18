@@ -1,13 +1,13 @@
-# Operations Specialist 
+Operations Specialist 
 
-### Education 
+Education 
 Economics, Bachelors
 
-### Work Experience 
+Work Experience 
 Operations Specialist @ Edward Jones
 - responsibilities
 
-### Data Projects
+Data Projects
 - Data Project 1
 - Data Project 2
 
